@@ -6,7 +6,7 @@
 
 # Built With
 
-- Technologies used: HTML, CSS
+- Technologies used: HTML, CSS, SASS.
 
 ### The challenge
 
